@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "trait-based-collection",
+    "trait-based-collection-macros",
+    "run-collection",
+]
