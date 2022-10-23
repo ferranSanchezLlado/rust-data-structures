@@ -37,7 +37,7 @@ Alternatively, you can clone this repository and build it from source:
 
 ```bash
 git clone https://github.com/ferranSanchezLlado/rust-data-structures.git
-cd r
+cd rust-data-structures
 cargo install --force --path .
 ```
 
